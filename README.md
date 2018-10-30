@@ -12,7 +12,7 @@ I wrote this to be able to decide which movie I wanted to watch from all the mov
     git clone https://github.com/bodhwani/IMDB-MovieRatings.git<br>
     cd IMDB-MovieRatings<br>
     python imdbFinal.py<br>
-After running this script, excel file will be generated in the same folder in which this script is present.<br>
+After running this script, it will generate an excel file in the same folder in which this script is present.<br>
 
 ### Requirements<br>
 - urllib - pip install urllib2<br>
