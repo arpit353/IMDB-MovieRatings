@@ -22,7 +22,4 @@ After running this script, excel file will be generated in the same folder in wh
 - xlsxwriter - sudo pip install xlsxwriter<br>
 
 ### Conditions<br>
-Your movies in the folder must contain names that can be found in IMDB. For eg. It cannot be like The Double(2013)[YTS], The Double1080.pxBR etc.The Double(2013) will work fine.
-
-
-	
+Your movies in the folder must contain names that can be found in IMDB. For eg. It cannot be like The Double(2013)[YTS], The Double1080.pxBR etc.The Double(2013) will work completely fine.
